@@ -5,6 +5,8 @@ import java.util.List;
 
 public class MinSubSetDiff {
 
+	/*Minimum subset sum difference problem*/
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int arr[] = {1,2,7};//{3, 1, 4, 2, 2, 1};
